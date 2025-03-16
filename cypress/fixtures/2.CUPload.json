@@ -1,0 +1,19 @@
+[ {
+    "fn": "jaydip",
+    "ln": "matele",
+    "email": "jaydip@gmail.com",
+    "msg": "i am learning cypress"
+},
+ {
+    "fn": "ketan",
+    "ln": "mohate",
+    "email": "ketan@gmail.com",
+    "msg": "i am learning power BI"
+},
+{
+    "fn": "pratiksha",
+    "ln": "mohate",
+    "email": "pratiksha@gmail.com",
+    "msg": "i am learning python"
+}
+]
